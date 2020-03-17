@@ -1,0 +1,11 @@
+{
+  "name": "press",
+  "version": "1.0.0",
+  "scripts": {
+    "d": "vuepress dev .",
+    "b": "vuepress build ."
+  },
+  "dependencies": {
+    "@vuepress/shared-utils": "^1.3.1"
+  }
+}
